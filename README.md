@@ -11,7 +11,7 @@ I am RigerCrows, A wed developer and designer. I 🤍 contributing to open sourc
 
 ### Github Stats
 
-![RigerCrows stats](https://github-readme-stats.vercel.app/api?username=rigercrowscount_private=true&show_icons=true&theme=radical)
+![RigerCrows stats]https://github-readme-stats.vercel.app/api?username=rigercrows&count_private=true&show_icons=true&theme=radical
 
 ### Top Languages
 

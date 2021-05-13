@@ -1,7 +1,19 @@
-- 👋 Hi, I’m @RigerCrows
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi there 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=RigerCrows&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+I am RigerCrows, A wed developer and designer. I 🤍 contributing to open source.
+
+### Skills
+
+- HTML/CSS
+- JavaScript
+- Python
+- C++
+
+### Github Stats
+
+![RigerCrows stats](https://github-readme-stats.vercel.app/api?username=rigercrowscount_private=true&show_icons=true&theme=radical)
+
+### Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rigercrows&show_icons=true&theme=radical)
+

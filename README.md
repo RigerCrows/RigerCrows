@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am RigerCrows, A wed developer and designer. I 🤍 contributing to open source.
+I am RigerCrows, developer and designer. I 🤍 contributing to open source.
 
 ### Skills
 

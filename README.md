@@ -4,10 +4,9 @@ I am RigerCrows, developer and designer. I 🤍 contributing to open source.
 
 ### Skills
 
-- HTML/CSS
-- JavaScript
-- Python
 - C++
+- Python
+- JavaScript
 
 ### Github Stats
 
